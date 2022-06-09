@@ -9,4 +9,4 @@ You can get hands-on experience by going through the below Medium blog and the c
 * [ETL Snowpark](https://github.com/phaniraj2112/SnowparkPythonMigration/blob/main/ETL_SnowparkPython-Part1.ipynb)
 * [ETL PySpark](https://github.com/phaniraj2112/SnowparkPythonMigration/blob/main/ETL_PySpark-Part1.ipynb)
 
-[Medium](https://medium.com/@phaniraj2112/a75058c1e579)
+     [Medium Blog Post](https://medium.com/@phaniraj2112/a75058c1e579)
