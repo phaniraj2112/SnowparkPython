@@ -7,6 +7,6 @@ Many people looking to gain the benefits of Snowpark may have existing pipelines
 
 ### Technical Deep Dive
 
-You can get hands-on experience by going through the [Medium Blog Post](https://medium.com/@phaniraj2112/a75058c1e579) and the code sample used in the blog are below:
+You can get hands-on experience by going through the [Medium Blog Post](https://medium.com/@phaniraj2112/a75058c1e579). The code sample used in the blog are below:
 * [ETL Snowpark](https://github.com/phaniraj2112/SnowparkPythonMigration/blob/main/ETL_SnowparkPython-Part1.ipynb)
 * [ETL PySpark](https://github.com/phaniraj2112/SnowparkPythonMigration/blob/main/ETL_PySpark-Part1.ipynb)
